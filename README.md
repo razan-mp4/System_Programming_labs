@@ -1,1 +1,1 @@
-# System_Programming_labs
+# Lab tasks from the discipline "System Programming"
